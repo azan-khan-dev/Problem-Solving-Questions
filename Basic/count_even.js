@@ -1,3 +1,4 @@
+// Function to count even numbers in an array
 function evencounter(arr)
 {
      let count = 0;

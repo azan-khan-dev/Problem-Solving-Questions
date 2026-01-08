@@ -1,3 +1,4 @@
+// Function to calculate sum of array elements
 function sum_arr(arr)
 {
     let sum=0;

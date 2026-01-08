@@ -1,3 +1,4 @@
+// Function to find the maximum element in an array
 function find_max(arr)
 {
     let max=arr[0]
